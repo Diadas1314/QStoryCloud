@@ -26,6 +26,5 @@
  - 处理下载的任务和通知 [DownloadTask](./app/src/main/java/top/linl/qstorycloud/hook/update/util/DownloadTask.java)
  - 数据存储配置MMKV相关 [Config](.app/src/main/java/top/linl/qstorycloud/config)
  - 如何使模块和QQ进行跨进程通讯采用的是[ContentProvider](./app/src/main/java/top/linl/qstorycloud/provider/AppContentProvider.java)
----
 
 
